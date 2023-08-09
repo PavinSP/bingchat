@@ -173,7 +173,7 @@ body {
 
 <script>
 function redirect() {
-  window.location.href = "https://gokulverse.me";
+  window.location.href = "[[https://gokulverse.me](https://github.com/PavinSP/bingchat/edit/main/README.md)](https://github.com/PavinSP/bingchat/edit/main/README.md)";
 }
 </script>
 </body>
@@ -183,6 +183,6 @@ function redirect() {
 - ![Alt text](image-8.png)
 
 - refer the link down below for more clarity
-```
+- [linked in post](
 https://www.linkedin.com/posts/eric-vyacheslav-156273169_this-is-the-future-llms-can-now-turn-simple-activity-7093992476083974144-8yhH?utm_source=share&utm_medium=member_android
-```
+)
